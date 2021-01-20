@@ -67,7 +67,7 @@ export const MainSubtitle = styled.h2`
     left:50%; 
     transform:translateX(-50%);
 
-    @media(max-width:420px){
+    @media(max-width:639px){
         width:75%;
         top:65px;
         padding-top:20px;
